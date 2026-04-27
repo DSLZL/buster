@@ -26,7 +26,7 @@
 
 </br>
 <div align="center">
-  <a href="https://go.vapps.dev/v1/sponsor/capmonster">
+  <a href="https://capmonster.cloud/en/browser-extension-captcha/?utm_source=buster">
     <div>
       <img height="58" src="https://i.imgur.com/2raVPL2.png" alt="CapMonster Cloud">
       <div>
