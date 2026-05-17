@@ -384,12 +384,9 @@ const microsoftSpeechApiRegions = [
 
 const sponsorLogoVariants = {};
 
-const sponsors = ['capmonster'];
+const sponsors = [];
 
-const sponsorSites = {
-  capmonster:
-    'https://capmonster.cloud/en/browser-extension-captcha/?utm_source=extbuster'
-};
+const sponsorSites = {};
 
 export {
   optionKeys,
