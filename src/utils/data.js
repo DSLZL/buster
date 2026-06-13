@@ -382,11 +382,15 @@ const microsoftSpeechApiRegions = [
   'westus3'
 ];
 
-const sponsorLogoVariants = {};
+const sponsorLogoVariants = {
+  lenso: ['dark']
+};
 
-const sponsors = [];
+const sponsors = ['lenso'];
 
-const sponsorSites = {};
+const sponsorSites = {
+  lenso: 'https://go.vapps.dev/s2/sponsor/lenso'
+};
 
 export {
   optionKeys,
